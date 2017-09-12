@@ -2,10 +2,6 @@
 
 Kulgram Big O Notation oleh Pratama Putra
 
-Telegram group
-Indonesia C/C++ Warriors (@idcplc)
-
-
 ## How to compile and execute
 * Linux/Mac OS
 ```
@@ -17,3 +13,7 @@ $ ./main
 * Windows OS
 Not tested
 
+#
+
+Telegram group
+Indonesia C/C++ Warriors (@idcplc)
