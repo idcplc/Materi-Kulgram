@@ -3,9 +3,9 @@
 ## Rules for contributors
 * Clone repository ini dan buat direktori baru dengan format YYYYMMDD_TemaKulgram.
 * Di dalam directory tersebut buatlah directory untuk menyimpan source code. 
-  - Jika source code hanya untuk digunakan pada IDE tertentu, buatlah direktori khusus dengan nama IDE yg digunakan dan versinya. contohnya VS_<versi>, XCode_<versi> dan sebagainya
-* Sertakan informasi mengenai compiler dan tools/IDE yang diperlukan untuk menjalankan code tersebut. Lengkapi dengan informasi OS, version dan cara compile/eksekusi
-* Commit dan submit pull request ke master branch
+  - Jika source code hanya untuk digunakan pada IDE tertentu, buatlah direktori khusus dengan nama IDE yg digunakan dan versinya. contohnya VS_(versi), XCode_(versi) dan sebagainya.
+* Sertakan informasi mengenai compiler dan tools/IDE yang diperlukan untuk menjalankan code tersebut. Lengkapi dengan informasi OS, version dan cara compile/eksekusi.
+* Commit dan submit pull request ke master branch.
 
 ## Struktur direktori
 ```
@@ -24,3 +24,6 @@ Kulgram Repo
     - materi.pdf / materi.md / digabung di readme.md
     - Readme.md
 ```
+#
+
+Telegram group Indonesia C/C++ Warriors (@idcplc)
